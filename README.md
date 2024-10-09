@@ -1,5 +1,5 @@
 # dailyaidecheck
-This `dailyaidecheck` is a FreeBSD port with some improvements to Debian's `dailyaidecheck,` a handy wrapper script for [Aide](https://aide.github.io/).
+This `dailyaidecheck` is a FreeBSD port with some improvements from Debian's `dailyaidecheck` - a handy wrapper script for [Aide](https://aide.github.io/).
 
 I don't think this will ever be approved for the FreeBSD port system as a part of [original Aide package](https://cgit.freebsd.org/ports/tree/security/aide), the same as it's done in Debian, so I'm just sharing it here.
 
